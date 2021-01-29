@@ -61,7 +61,7 @@ Antes de ejecutar el siguiente comando, asegúrese de estar en el directorio del
 |       ✅        |   Url2Img ( Captura de pantalla WAWeb )   |
 |       ✅        |   Simsimi		                |
 
-| Gropo |                     Característica               |
+| Grupo |                     Característica               |
 | :-----------: | :--------------------------------: |
 |       ✅        |   Tagall/ Mencionar a todos los miembros       |
 |       ✅        |   Eliminar Miembro de Grupo            |
