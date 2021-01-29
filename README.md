@@ -5,7 +5,7 @@
 <a href="#"><img title="YukinikoBOT" src="https://img.shields.io/badge/XPTNNBOT-green?colorA=%23ff0000&colorB=%23017e40&style=for-the-badge"></a>
 </p>
 <p align="center">
-<a href="https://github.com/XP-TN"><img title="Author" src="https://img.shields.io/badge/Author-XP-TN-red.svg?style=for-the-badge&logo=github"></a>
+<a href="https://github.com/XP-TN"><img title="Author" src="https://avatars.githubusercontent.com/u/69366306?s=400&u=23257dc822fe75ecbba6322b356a48b72bc37429&v=4?style=for-the-badge&logo=github"></a>
 </p>
 <p align="center">
 <a href="https://github.com/XP-TN/XP-TNNBOT/followers"><img title="Followers" src="https://img.shields.io/github/followers/XP-TN?color=blue&style=flat-square"></a>
