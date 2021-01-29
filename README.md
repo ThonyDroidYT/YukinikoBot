@@ -37,7 +37,7 @@ Antes de ejecutar el siguiente comando, asegúrese de estar en el directorio del
 > bash install.sh
 ```
 
-### Usar
+### Iniciar Bot
 ```bash
 > npm start
 ```
