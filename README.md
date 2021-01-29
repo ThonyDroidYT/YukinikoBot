@@ -33,7 +33,7 @@
 Antes de ejecutar el siguiente comando, asegúrese de estar en el directorio del proyecto que acabas de clonar !!
 
 ```bash
-> cd XPTNNBOT
+> cd YukinikoBot
 > bash install.sh
 ```
 
