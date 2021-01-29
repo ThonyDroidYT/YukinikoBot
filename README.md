@@ -46,7 +46,7 @@ Antes de ejecutar el siguiente comando, asegúrese de estar en el directorio del
 
 | Creador Stiker |               Característica           |
 | :-----------: | :--------------------------------: |
-|       ✅       | Send Photo with Caption          |
+|       ✅       | Enviar foto con mención         |
 |       ✅       | Responder una foto.                   |
 |       ✅       | Responder un video o GIF             |
 |       ✅       | Enviar video o GIF con subtítulo   |
