@@ -22,7 +22,7 @@
 ## Clonar este proyecto
 
 ```bash
-> git clone https://github.com/XP-TN/XPTNNBOTV
+> https://github.com/ThonyDroidYT/YukinikoBot
 ```
 
 ```bash
