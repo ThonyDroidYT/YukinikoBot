@@ -41,6 +41,10 @@ Antes de ejecutar el siguiente comando, asegúrese de estar en el directorio del
 ```bash
 > npm start
 ```
+```
+#### Para Ver Comandos
+>.menu
+```
 
 ## Caracteristicas
 
